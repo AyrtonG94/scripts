@@ -1,0 +1,21 @@
+
+LISTA DE COTACOES(APENAS PARA A MOEDA BRASILEIRA)
+
+USD-BRL (Dolar Comercial)
+USDT-BRL (Dolar Turismo)
+CAD-BRL (Dolar Canadense)
+AUD-BRL (Dolar Australiano)
+EUR-BRL (Euro)
+GBP-BRL (Libra Esterlina)
+ARS-BRL (Peso Argentino)
+JPY-BRL (Iene Japonês)
+CHF-BRL (Franco Suíço)
+CNY-BRL (Yuan Chines)
+YLS-BRL (Novo Shekel Israelense)
+BTC-BRL (Bitcoin)
+LTC-BRL (Litecoin)
+ETH-BRL (Ethereum)
+XRP-BRL (Ripple)
+
+DIGITE A COTACAO USANDO O FORMATO ACIMA
+EX: USD-BRL
