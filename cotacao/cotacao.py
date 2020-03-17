@@ -17,5 +17,5 @@ for resultado in converter.values():
     print('Converter:', resultado['code'])
     print('Para: ', resultado['codein'])
     print('Valor atual: ', "R$"+resultado['bid'])
-    print('Maior valor do dia até agora: ', "R$"+(resultado['high']))
+    print('Maior valor do dia até agora: ', "R$"+resultado['high'])
     print('Menor valor do dia até agora: ', "R$"+resultado['low'])
