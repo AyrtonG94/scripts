@@ -6,7 +6,7 @@ listar = open('listagem.txt')
 print(listar.read())
 listar.close()
 
-pergunta = (input('Digite a cotação desejada: \n'))
+pergunta = input('Digite a cotação desejada: \n')
 
 requisao = requests.get('https://economia.awesomeapi.com.br/json/all/'+str(pergunta))
 
